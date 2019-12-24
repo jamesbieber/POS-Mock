@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/POS-Mock/static/css/main.46e5a523.chunk.css",
+    "main.js": "/POS-Mock/static/js/main.b4fdd88b.chunk.js",
+    "main.js.map": "/POS-Mock/static/js/main.b4fdd88b.chunk.js.map",
+    "runtime-main.js": "/POS-Mock/static/js/runtime-main.6d95ae6d.js",
+    "runtime-main.js.map": "/POS-Mock/static/js/runtime-main.6d95ae6d.js.map",
+    "static/js/2.3404fc13.chunk.js": "/POS-Mock/static/js/2.3404fc13.chunk.js",
+    "static/js/2.3404fc13.chunk.js.map": "/POS-Mock/static/js/2.3404fc13.chunk.js.map",
+    "index.html": "/POS-Mock/index.html",
+    "precache-manifest.ebbf7a39c617e2cee6efe53e07031162.js": "/POS-Mock/precache-manifest.ebbf7a39c617e2cee6efe53e07031162.js",
+    "service-worker.js": "/POS-Mock/service-worker.js",
+    "static/css/main.46e5a523.chunk.css.map": "/POS-Mock/static/css/main.46e5a523.chunk.css.map",
+    "static/js/2.3404fc13.chunk.js.LICENSE": "/POS-Mock/static/js/2.3404fc13.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d95ae6d.js",
+    "static/js/2.3404fc13.chunk.js",
+    "static/css/main.46e5a523.chunk.css",
+    "static/js/main.b4fdd88b.chunk.js"
+  ]
+}
